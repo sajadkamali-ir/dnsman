@@ -38,6 +38,10 @@ Now you are ready to install the script:
  
 You are **DONE**! The usage of dnsman is self explanatory.
 
+To run it type sudo dnsman anywhere in you terminal:
+
+        sudo dnsman
+
 In case if you want to uninstall it:
 
     sudo ./uninstall.sh
